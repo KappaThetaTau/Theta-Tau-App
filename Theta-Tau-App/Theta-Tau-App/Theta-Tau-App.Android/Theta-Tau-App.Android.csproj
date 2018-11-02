@@ -92,6 +92,10 @@
     <Folder Include="Resources\drawable-xxxhdpi\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Theta-Tau-App\Theta-Tau-App.csproj">
+      <Project>{a7282812-849e-4fb0-bf0f-2ffe2366e525}</Project>
+      <Name>Theta-Tau-App</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Theta_Tau_App\Theta_Tau_App.csproj">
       <Project>{3ED5E26D-2681-4320-8A36-AF103B463E23}</Project>
       <Name>Theta_Tau_App</Name>
