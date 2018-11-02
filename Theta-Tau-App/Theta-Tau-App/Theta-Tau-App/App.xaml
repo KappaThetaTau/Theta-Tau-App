@@ -7,12 +7,9 @@
             <!--Mike's first change-->
             <!--Global Styles-->
             <!--Hello!-->
-<<<<<<< HEAD
             <!--Test!-->
             <!--hello! world-->
-=======
             <!--Hello again!-->
->>>>>>> c2c439c... let me freaking commit
             <Color x:Key="NavigationPrimary">#2196F3</Color>
             <Style TargetType="NavigationPage">
                 <Setter Property="BarBackgroundColor" Value="{StaticResource NavigationPrimary}" />
