@@ -4,6 +4,7 @@
              x:Class="Theta_Tau_App.App">
     <Application.Resources>
         <ResourceDictionary>
+            <!--Mike's first change-->
             <!--Global Styles-->
             <!--Hello!-->
             <!--Test!-->
