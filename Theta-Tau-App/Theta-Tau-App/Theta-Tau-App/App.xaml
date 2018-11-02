@@ -4,8 +4,10 @@
              x:Class="Theta_Tau_App.App">
     <Application.Resources>
         <ResourceDictionary>
+            <!--Mike's first change-->
             <!--Global Styles-->
             <!--Hello!-->
+            <!--Test!-->
             <Color x:Key="NavigationPrimary">#2196F3</Color>
             <Style TargetType="NavigationPage">
                 <Setter Property="BarBackgroundColor" Value="{StaticResource NavigationPrimary}" />
