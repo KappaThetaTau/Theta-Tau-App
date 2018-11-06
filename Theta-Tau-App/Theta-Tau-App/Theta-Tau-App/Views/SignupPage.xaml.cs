@@ -45,7 +45,8 @@ namespace Theta_Tau_App.Views
             };
 
             signupButton.Clicked += (object sender, EventArgs e) => {
-                // add logic here
+                // add logic here, or in another function
+                Navigation.PushAsync(new MainPage());
             };
 
             Content = new StackLayout
@@ -59,4 +60,5 @@ namespace Theta_Tau_App.Views
         }
     }
 }
+
 
