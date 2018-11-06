@@ -12,9 +12,9 @@ namespace Theta_Tau_App
         public App()
         {
             InitializeComponent();
-
-
-            MainPage = new MainPage();
+            MainPage = new SignupPage();
+            /* !!! In order to look at current signup page, change line 15
+             * to MainPage = new SignupPage() */
         }
 
         protected override void OnStart()
