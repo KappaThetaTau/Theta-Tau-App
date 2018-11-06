@@ -53,7 +53,7 @@ namespace Theta_Tau_App.Views
                 Padding = 30,
                 Spacing = 10,
                 Children = {
-                    displayText, name, roleNumber, username, email, phone, password, signupButton
+                    displayText, name, email, password, signupButton
                 }
             };
         }
